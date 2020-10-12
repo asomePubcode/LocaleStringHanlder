@@ -1,0 +1,8 @@
+"com.upgrade.title" = "New Version Available";
+"com.upgrade.ok" = "Upgrade";
+"com.upgrade.cancel" = "Later";
+"com.upgrade.updating" = "Upgrading...";
+"com.upgrade.success" = "Upgrade succeeded";
+"com.upgrade.fail" = "Upgrade failed";
+"com.noUpdate.tip" = "No upgrade is available";
+"com.noUpdate.ok" = "OK";

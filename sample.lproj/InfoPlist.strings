@@ -1,0 +1,9 @@
+NSLocationUsageDescription="The app requires access to your device’s location for device pairing and automated setup.";
+NSLocationWhenInUseUsageDescription="The app requires access to your device’s location for device pairing and automated setup.";
+NSPhotoLibraryUsageDescription="We will read your album image to display avatars";
+NSCameraUsageDescription="Your camera will be used to take profile photos and scan QR codes.";
+NSBluetoothAlwaysUsageDescription="The App needs Bluetooth access to scan the Bluetooth devices nearby.";
+NSBluetoothPeripheralUsageDescription="The App needs Bluetooth access to scan the Bluetooth devices nearby.";
+NSLocationAlwaysAndWhenInUseUsageDescription="Choose \"Always\" in order to enable geo-location, device pairing and automated setup.";
+NSPhotoLibraryAddUsageDescription="Your album permissions will be used to save your pictures";
+NSLocationAlwaysUsageDescription="Choose \"Always\" in order to enable geo-location, device pairing and automated setup.";

@@ -1,0 +1,2 @@
+"com.geolocation.leaveHomeError"="You are leaving home but the corresponding automation could not run. Please check network connection and device status.";
+"com.geolocation.backHomeError"="You are arriving home but the corresponding automation could not run. Please check network connection and device status..";
